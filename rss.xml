@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PictureThat]]></title>
-        <description><![CDATA[PictureThat]]></description>
+        <title><![CDATA[Talent agency based in Warsaw]]></title>
+        <description><![CDATA[Talent agency based in Warsaw]]></description>
         <link>https://thegrid.ai/picturethat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 14:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 14:10:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/picturethat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f27659-2473-4862-8f9e-f20737ba7d3d.jpg">]]></description>
+            <link>https://thegrid.ai/picturethat/hello-world-its-us-and-you-picture-that/index.html</link>
+            <guid isPermaLink="false">398b044d-d218-4b91-8f21-af158c3ab629</guid>
+            <pubDate>Mon, 09 May 2016 14:10:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b81d6493-c843-4702-9b12-f9b903b64619.jpg">]]></description>
