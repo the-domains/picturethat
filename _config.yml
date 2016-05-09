@@ -1,0 +1,28 @@
+name: PictureThat
+favicon: null
+layout_spectrum: 0.9028012102935463
+typography_spectrum: 0.2742194477468729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3574196514673531
+  lightness: 0.11674442840740085
+  saturation: 0.7354806091170758
+  rhythmicContrast: 0.6217153405304998
+purpose: []
